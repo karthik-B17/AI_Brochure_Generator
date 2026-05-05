@@ -10,6 +10,7 @@ A powerful **Generative AI application** that converts any company website into 
 ---
 
 ## 📸 Preview
+<img width="1915" height="864" alt="image" src="https://github.com/user-attachments/assets/f3d89fd0-a2dc-4f2c-8011-e68295ffd17f" />
 
 > Clean dark UI that takes a company URL and generates a professional brochure in seconds with streaming output.
 
