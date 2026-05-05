@@ -1,0 +1,5 @@
+beautifulsoup4
+requests
+gradio
+python-dotenv
+openai
